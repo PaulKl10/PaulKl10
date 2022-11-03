@@ -8,6 +8,7 @@
 [![Git](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=F05032)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://www.github.com/)
 ## Expériences/Formations
-- j'effectue une formation de développeur web et web mobile chez human booster de septembre 2022 à septembre 2023.
+<img src="./parcour.png" alt="parcour">
+
 ## Projets
 ![Video](./giphy.gif)
