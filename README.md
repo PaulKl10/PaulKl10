@@ -6,6 +6,4 @@
 - j'effectue une formation de développeur web et web mobile chez human booster de septembre 2022 à septembre 2023.
 ## Projets
 <img src ="photo.png" alt="photo" width ="40px">
-<video width="320" height="240" controls>
-  <source src="monde.mp4" type="video/mp4">
-</video>
+<img src ="giphy.gif" alt="photo23" width ="90px">
