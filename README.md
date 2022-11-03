@@ -9,6 +9,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://www.github.com/)
 ## Expériences/Formations
 <img src="./parcour.png" alt="parcour">
+(oui j'ai copié coller mon CV)
 
 ## Projets
-![Video](./giphy.gif)
+![Video](./giphy.gif) conquérir le monde !!!!
