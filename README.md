@@ -5,4 +5,4 @@
 ## Expériences/Formations
 - j'effectue une formation de développeur web et web mobile chez human booster de septembre 2022 à septembre 2023.
 ## Projets
-![Video](http://leghend.deviantart.com/art/Earth-gif-269714016)
+![Video](/giphy.gif)
