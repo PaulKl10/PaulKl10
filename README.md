@@ -1,3 +1,3 @@
 # Paul Klein 👋
 
-Developer Next, React native and dotnet.
+Developer NextJs, React native and .NET.
